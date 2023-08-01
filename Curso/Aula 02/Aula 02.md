@@ -33,7 +33,7 @@
 
 1. Entrada de dados
 
-```rb
+```ruby
 gets # Recebe dados do teclado
 
 gets.chomp # Recebe dados do teclado, removendo quebras de linhas \n
@@ -41,7 +41,7 @@ gets.chomp # Recebe dados do teclado, removendo quebras de linhas \n
 
 2. Saída de dados
 
-```rb
+```ruby
 print # Imprime em uma linha
 
 puts # Imprime com uma quebra de linha
