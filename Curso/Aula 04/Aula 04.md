@@ -36,7 +36,7 @@ ___Obs.: o método push sempre adiciona ao final do array___
 
 array.insert(0, "Elemento 1", "Elemento 2")
 ```
-___Obs.: O valor informa no início faz referência a posição que deseja adicionar o(s) elemento(s).
+___Obs.: O valor informa no início faz referência a posição que deseja adicionar o(s) elemento(s).___
 
 
 4. Acessando um elemento inserido
