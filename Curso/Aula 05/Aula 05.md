@@ -67,7 +67,6 @@ gem list
 
 ### Desafios
 
-1.	Crie um programa que possua um método que resolva a Potência dado um número base e seu expoente. Estes dois Valores devem ser informados pelo usuário.
+1.Crie um programa que possua um método que resolva a Potência dado um número base e seu expoente. Estes dois Valores devem ser informados pelo usuário.
 
-2.	Siga a documentação da gem Cpf-CNPJ para criar um programa que recebe como entrada um número de CPF e em um método verifique se este número é válido.
-
+2.Siga a documentação da gem Cpf-CNPJ para criar um programa que recebe como entrada um número de CPF e em um método verifique se este número é válido.
