@@ -18,7 +18,7 @@ end
 
 jogador = JogadorDeFutebol.new
 
-puts "Jogador\t"
+puts "Jogador"
 jogador.competir
 jogador.correr
 
