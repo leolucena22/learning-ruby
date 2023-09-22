@@ -60,7 +60,7 @@ cachorro.latir
 ```
 _Obs¹.: **require** './file.rb' é usado para importação em um mesmo diretório_
 
-_Obs².: **require** './file.rb' é Usado para o ruby indeficar o path da importação independente do local de excução_
+_Obs².: **require_relative** './file.rb' é Usado para o ruby indeficar o path da importação independente do local de excução_
 
 ---
 ### Escopo das Variáveis
