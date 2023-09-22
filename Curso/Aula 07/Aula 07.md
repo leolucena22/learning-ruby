@@ -94,7 +94,7 @@ método, conseguirá acessá-la apenas dentro deste método e assim por diante.
 
 É declarada com o prefixo $.
 
-Pode ser acessada em qua lquer lugar do programa.
+Pode ser acessada em qualquer lugar do programa.
 
 Seu uso é FORTEMENTE DESENCORAJADO pois além de ser visível em qualquer lugar do
 código, também pode ser alterada em inúmeros locais ocasionando dificuldades
