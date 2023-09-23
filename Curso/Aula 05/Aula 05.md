@@ -51,7 +51,7 @@ gem list
 
 ### Bundler
 
-> Oo Bundler é um gerenciador de dependências de projetos Ruby e sua mágica consiste em baixar e instalar as dependências de seu projeto com um simples bundle install.
+> O Bundler é um gerenciador de dependências de projetos Ruby e sua mágica consiste em baixar e instalar as dependências de seu projeto com um simples bundle install.
 
 > Você pode especificar todas as dependências necessárias em um arquivo chamado Gemfile. Esse arquivo deve conter a fonte de onde o Bundler deve obter as gems e a declaração das dependências necessárias para o seu projeto.
 
