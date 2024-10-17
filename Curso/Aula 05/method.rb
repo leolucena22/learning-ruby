@@ -3,4 +3,4 @@ def talk(first_name, last_name)
 end
 
 talk("Leonardo", "Lucena")
-talk("Alanne", "Melo")
+talk("Samara", "Lucena")
