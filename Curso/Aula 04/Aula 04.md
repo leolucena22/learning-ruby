@@ -190,7 +190,7 @@ hash.empty?
 1. Each em array
 
 ```ruby
-nomes = ['Leonardo', 'Alanne', 'Samara']
+nomes = ['Leonardo', 'Lucimar', 'Samara', 'Eliano']
 nome = 'Leonardo Lucena'
 
 names.each do |nome|
@@ -203,8 +203,9 @@ puts nome
 **Saida**
 ```
 Leonardo
-Alanne
+Lucimar
 Samara
+Eliano
 Leonardo Lucena
 ```
 ___Obs.: O métodos each não sobreescreve o valor de uma variável___
