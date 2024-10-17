@@ -18,7 +18,7 @@ def hello name
 end
 
 hello "Leonardo"
-hello "Alanne"
+hello "Lucena"
 ```
 ---
 
